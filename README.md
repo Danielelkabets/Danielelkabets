@@ -25,7 +25,7 @@ High-performance Direct Memory Access controller featuring AXI4-Lite for control
 
 ## 📫 Let's Connect
 * **LinkedIn:** [www.linkedin.com/in/daniel-elkabets-35b063357]
-* **Email:** [danielelkabets5@gmail.com]## Hi there 👋
+* **Email:** [danielelkabets5@gmail.com]
 
 <!--
 **Danielelkabets/Danielelkabets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
