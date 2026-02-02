@@ -17,7 +17,7 @@
 
 ## 📌 Featured Projects
 
-### [Verilog-UART-Controller]. (In Progress 🏗️)
+### [Verilog-UART-Controller](https://github.com/YourUsername/Verilog-UART-Controller)(In Progress 🏗️)
 "A modular UART communication system implemented in Verilog, featuring a parameterized Baud Rate generator and integrated FIFO buffers for reliable data handling."
 * **Focus:** FSM-based design, Clock Division, and Synchronous FIFO for data integrity.
 
