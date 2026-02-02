@@ -17,7 +17,7 @@
 
 ## 📌 Featured Projects
 
-### [AXI4-DMA-Controller](https://github.com/Danielelkabets/AXI4_DMA_Controller) (In Progress 🏗️)
+### [UART Controller with FIFO Buffer (Verilog)] (In Progress 🏗️)
 High-performance Direct Memory Access controller featuring AXI4-Lite for control and AXI4-Full for data transfers.
 * **Focus:** Throughput optimization, Arbiter logic, and Verification.
 
