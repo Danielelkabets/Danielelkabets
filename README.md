@@ -18,8 +18,8 @@
 ## 📌 Featured Projects
 
 ### [Verilog-UART-Controller]. (In Progress 🏗️)
-High-performance Direct Memory Access controller featuring AXI4-Lite for control and AXI4-Full for data transfers.
-* **Focus:** Throughput optimization, Arbiter logic, and Verification.
+"A modular UART communication system implemented in Verilog, featuring a parameterized Baud Rate generator and integrated FIFO buffers for reliable data handling."
+* **Focus:** FSM-based design, Clock Division, and Synchronous FIFO for data integrity.
 
 ---
 
